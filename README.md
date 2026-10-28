@@ -175,8 +175,16 @@ See [SECURITY.md](SECURITY.md) for private vulnerability reporting.
 
 ## License and references
 
-MIT license; see [LICENSE](LICENSE). Third-party dependencies retain their own
-licenses. VEGAS and other product names belong to their respective owners.
+MIT license: free to use, change, and share; see [LICENSE](LICENSE). Third-party
+dependencies retain their own licenses. VEGAS and other product names belong to
+their respective owners.
+
+**Acknowledgment:** During the initial research for this project, we reviewed
+[Marco Ravich](https://github.com/MarcoRavich)'s
+[VEGAS-AI-control](https://github.com/MarcoRavich/VEGAS-AI-control), an earlier
+public exploration of AI control through the VEGAS scripting API, released under
+CC0 1.0. United Taps subsequently developed a separate MCP server and C#
+application extension.
 
 - [MCP TypeScript SDK: local stdio servers](https://ts.sdk.modelcontextprotocol.io/server)
 - [MCP local-server security](https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/docs/docs/2026-07-28/tutorials/security/local-server-security.mdx)
